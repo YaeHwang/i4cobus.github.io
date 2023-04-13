@@ -37,7 +37,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   I'm Jacob Hwang. Here is my homepage ❤️
 author: Jacob Hwang
 email: i4cobus@gmail.com
-avatar: assets\images\avatar.jpg
+avatar: assets/images/avatar.jpg
 
 
 # You'll want to customize url and baseurl for your own site:
