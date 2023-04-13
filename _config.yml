@@ -31,10 +31,10 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Jacob Hwang
-# subtitle: Your awesome subtitle
+subtitle: 黄琰育
 description: >- # this means to ignore newlines until "baseurl:"
   Hi 👋 
-  I'm Jacob Hwang.
+  I'm Jacob Hwang. Here is my homepage ❤️
 author: Jacob Hwang
 email: i4cobus@gmail.com
 avatar: assets/images/avatar.jpg
